@@ -32,7 +32,7 @@ nirmal = {
 }
 ```
 
-- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**
+- 🎓  **B.Tech Graduate in Artificial Intelligence & Data Science (2025)**
 - 💼 Completed internship as a **Data Scientist** at **HefShine Softwares Pvt. Ltd.**
 - 🔭 Built end-to-end ML projects in **NLP** and **Regression**
 - 🌱 Currently levelling up in **Power BI**, **ML Deployment**, and **Deep Learning**
