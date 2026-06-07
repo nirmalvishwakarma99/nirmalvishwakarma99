@@ -74,7 +74,7 @@ nirmal = {
 
 ## 🚀 Featured Projects
 
-### 🔍 [Job Role Prediction System](https://github.com/nirmalvishwakarma/job-role-prediction)
+### 🔍 [Job Role Prediction System](https://github.com/nirmalvishwakarma99/Job_prediction)
 > **NLP · TF-IDF · Random Forest · Text Classification**
 
 Developed an intelligent NLP pipeline that **predicts job roles directly from resume text**. The system extracts relevant features using TF-IDF vectorization and classifies roles using a Random Forest classifier.
@@ -89,7 +89,7 @@ Developed an intelligent NLP pipeline that **predicts job roles directly from re
 
 ---
 
-### 🚂 [Train Journey Time Prediction](https://github.com/nirmalvishwakarma/train-journey-prediction)
+### 🚂 [Train Journey Time Prediction](https://github.com/nirmalvishwakarma99/Journey_time_prediction)
 > **Regression · Feature Engineering · Route Analysis**
 
 Built a regression model to predict train journey durations by engineering route-specific features, performing in-depth EDA, and applying advanced preprocessing techniques.
@@ -158,7 +158,7 @@ Built a regression model to predict train journey durations by engineering route
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmalvishwakarma&bg_color=1a1b27&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nirmalvishwakarma99&bg_color=1a1b27&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
